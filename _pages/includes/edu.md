@@ -2,7 +2,7 @@
 ## Professional Experience
 ### Current Position
 - **March 2025 – Present**  
-  *Hundred-Talents Program Researcher*  
+  *ZJU100 Professor*  
   Zhejiang University, School of Integrated Circuits
 
 ### Previous Positions
@@ -11,7 +11,7 @@
   China University of Petroleum (Beijing), School of Artificial Intelligence
 
 - **2018 – 2022**  
-  *Lecturer, Master's Supervisor*  
+  *Assistant Professor, Master's Supervisor*  
   China University of Petroleum (Beijing), School of Information Science and Engineering
 
 - **2016 – 2017**  
