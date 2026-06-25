@@ -1,4 +1,5 @@
-Zhou Jin is currently a "ZJU100" Young Professor at Zhejiang University. She earned her Bachelor's degree from Nanjing University in 2010, followed by a Master's and a Ph.D. from Waseda University, Japan, in 2012 and 2015, respectively.  
-From 2017 to 2022, she was an Assistant Professor at the Super Scientific Software Laboratory, China University of Petroleum, Beijing, and was promoted to Associate Professor in 2023.  
-Her research interests include AI-driven and GPU-accelerated transistor-level nonlinear circuit simulation, and hardware-software co-design for linear algebra applications.  
-She has received multiple awards, such as the Best Paper Award at SC (Supercomputing Conference)'23, Best Paper Finalist at SC'24, Honorable Paper Award at ISEDA'23, and the IEEJ Kyushu Branch Award in 2013.  
+Zhou Jin is a Professor at the Institute of Integrated Circuits, Zhejiang University. She received her B.S. degree from Nanjing University in 2010, and her M.S. and Ph.D. degrees from Waseda University, Japan, in 2012 and 2015, respectively. She was a postdoctoral researcher at Waseda University from 2015 to 2017. From 2017 to 2025, she was a faculty member at China University of Petroleum, Beijing, where she was promoted to Associate Professor before joining Zhejiang University.
+
+Her research focuses on numerical methods for electronic design automation (EDA), particularly SPICE-level circuit simulation, sparse linear solvers, GPU/parallel acceleration, and AI-assisted simulation methods for large-scale IC designs.
+
+She has received several recognitions, including the Best Paper Award at SC’23, Best Paper Finalist at SC’24, and the EDA2 Young Scientist and Technologist Award. Her group’s work has also been recognized by awards and honors at venues such as ISEDA, IEEE WAI, and IEEE HPEC.
