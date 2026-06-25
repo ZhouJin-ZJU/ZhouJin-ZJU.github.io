@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Zhou Jin"
-description              : "Focusing on Electronic Design Automation (EDA)​​, ​​VLSI CAD​​, ​​Design Automation​​ and ​​Circuit Simulation​​."
+description              : "Electronic Design Automation (EDA), SPICE-level Circuit Simulation, Sparse Linear Solvers, GPU/Parallel Acceleration, AI-assisted Simulation.
+"
 repository               : "ZhouJin-ZJU/ZhouJin-ZJU.github.io"
 google_scholar_stats_use_cdn : true
 url: "https://zhoujin-zju.github.io"
