@@ -1,13 +1,19 @@
 # 🎖 Honors and Awards
-## 🏆 Best Paper Awards
-- **SC '24 (CCF - A International Top - tier Conference)**
-  - Best Paper Award Nomination (2024)
-- **SC '23 (CCF - A International Top - tier Conference)**
-  - Best Paper Award
-  - 🔹**First recipient from Mainland China**
-  - 🔹**Only winner at the conference (2023)**
-- **ISEDA '23**
-  - Honorable Mention Paper Award (2023)
+- ### 🏆 Best Paper Awards
+
+- **PPoPP '26 Best Paper Award Nomination**
+
+- **DATE '26 Best Paper Award Nomination**
+  
+- **HPEC '25 Best Student Paper Award**
+
+- **WAI '25 Best Paper Award**
+
+- **SC '24 Best Paper Award Nomination**
+
+- **SC '23 Best Paper Award**
+
+- **ISEDA '23 Honorable Mention Paper Award**
 
 ## 🏅 Young Scientist Awards
 - **EDA<sup>2</sup> Open Innovation Collaboration Mechanism**
