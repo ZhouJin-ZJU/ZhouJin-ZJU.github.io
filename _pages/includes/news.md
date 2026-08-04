@@ -1,7 +1,6 @@
 # 🔥 News
 
 - *2026.07*: 🎉 Six papers are accepted by ICCAD 2026！
-- 
 <!--
 - *2026.05*: 🎉 Five papers are accepted by ACL 2023
 - *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
