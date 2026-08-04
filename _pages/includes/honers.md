@@ -1,19 +1,19 @@
 # 🎖 Honors and Awards
 - ### 🏆 Best Paper Awards
 
-- **PPoPP '26 Best Paper Award Nomination**
+- **PPoPP 2026 Best Paper Award Nomination**
 
-- **DATE '26 Best Paper Award Nomination**
+- **DATE 2026 Best Paper Award Nomination**
   
-- **HPEC '25 Best Student Paper Award**
+- **HPEC 2025 Best Student Paper Award**
 
-- **WAI '25 Best Paper Award**
+- **WAI 2025 Best Paper Award**
 
-- **SC '24 Best Paper Award Nomination**
+- **SC 2024 Best Paper Award Nomination**
 
-- **SC '23 Best Paper Award**
+- **SC 2023 Best Paper Award**
 
-- **ISEDA '23 Honorable Mention Paper Award**
+- **ISEDA 2023 Honorable Mention Paper Award**
 
 ## 🏅 Young Scientist Awards
 - **EDA<sup>2</sup> Open Innovation Collaboration Mechanism**
