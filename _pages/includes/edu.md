@@ -8,7 +8,7 @@
 
 
 # Work Experience
-- **March 2025 – Present**  
+- **Since March 2025**  
   *ZJU100 Professor*  
   Zhejiang University, School of Integrated Circuits
 
