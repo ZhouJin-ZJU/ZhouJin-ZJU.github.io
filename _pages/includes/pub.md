@@ -1,90 +1,84 @@
 
 # 📝 Publications 
 
-### [J91] GPU-Accelerated Effective Resistance Analysis for 3D IC Power Delivery Network
-- Jingchao Hu, Cheng Zhuo, **Zhou Jin**
-- arXiv preprint arXiv:2607.05818
-
-
-### [C90] SCALER: A Stream-Aware Accelerator with Hierarchical Memory for Sparse LU Factorization on HBM FPGAs
-- Xin Xu, Zhenhua Wu, Z Li, Dan Niu, Cheng Zhuo, **Zhou Jin**
-- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
-
-
-### [C89] GRIND: GNN and Reinforcement Learning Enhanced Multilevel Nested Dissection for Circuit Matrix Reordering
-- Jianfei Song, Zhenhua Wu, **Zhou Jin**, Cheng Zhuo
-- 2025 International Symposium of Electronics Design Automation (ISEDA '26)
-
-
-### [C88] From Forest to Tree: Prioritizing the Maximum Additional Delay in AQFP Circuit Design
-- Y Bai, M Fan, T Y Ho, **Zhou Jin**
-- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
-
-
-### [C87] GE-LLM: Graph-Enhanced Large Language Models for Efficient Transistor-Level Circuit Simulation
-- C Wang, D Niu, Y Dong, D Zhang, C Sun, **Zhou Jin**
-- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
-
-
-### [C86] MISP-Net: Significantly Reducing Transient Backward-steppings via Novel Multi-step Irregular Sequence Prediction
-- Y Dong, D Niu, C Wang, Z Zhou, C Sun, **Zhou Jin**
-- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
-
-
-### [C85] MinFill: Reinforcement Learning and GNN Guided Reordering for Fill-In Reduction in RF Circuit Matrices
-- H Zhang, D Niu, C Zhuo, **Zhou Jin**
-- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
-
-
-### [C84] IR Drop-Aware ECO: A Fast Approach to Minimize Layout and Timing Disturbance
-- J Hu, Y Lin, H Yu, Q Chen, **Zhou Jin**, C Zhuo
-- 31st Asia and South Pacific Design Automation Conference (ASP-DAC '26)
-
-
-### [C83] Understanding and Predicting Vmin Failures in Power Delivery Networks through Multi-Order Droop Signatures
-- S Sun, J Hu, **Zhou Jin**, C Zhuo
-- 31st Asia and South Pacific Design Automation Conference (ASP-DAC '26)
-
-
-### [C82] PackStress: Physics-Aware Learning for Full-Chip Thermal Stress Modeling in 3D Packaging
-- T Xu, Z Wu, **Zhou Jin**, C Zhuo
+### [C91] PackStress: Physics-Aware Learning for Full-Chip Thermal Stress Modeling in 3D Packaging
+- Tao Xu, Zhenhua Wu, **Zhou Jin**, Cheng Zhuo
 - 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
 
-### [C81] SPEED: A Path-Aware Structure-Pruning Sparse Direct Solver for Efficient ECO-Driven Power Grid Analysis
-- J Song, Z Wu, **Zhou Jin**, C Zhuo
+### [C90] SPEED: A Path-Aware Structure-Pruning Sparse Direct Solver for Efficient ECO-Driven Power Grid Analysis
+- Jianfei Song, Z Wu, **Zhou Jin**, C Zhuo
 - 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
 
-### [C80] Structure-Aligned Thermal Surrogate Prediction for Heterogeneous 2.5D/3D Chiplet Packages via Point Cloud
+### [C89] Structure-Aligned Thermal Surrogate Prediction for Heterogeneous 2.5D/3D Chiplet Packages via Point Cloud
 - D Zhang, D Niu, W Xing, Y Cao, Z Li, Z Zhou, C Sun, **Zhou Jin**
 - 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
+### [C88] RA²L-NAND: Risk-Aware Active Learning for High-Sigma Exploration in 3D NAND
+- H Chen, J Huang, Z Sha, Z Wu, S Zhang, **Zhou Jin**, C Zhuo
+- 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
-### [C79] GR2W: GNN-Prior Residual Random Walk for Sign-Off-Guaranteed Localized PDN IR Drop Analysis
+### [C87] GR²W: GNN-Prior Residual Random Walk for Sign-Off-Guaranteed Localized PDN IR Drop Analysis
 - X Wang, D Niu, W W Xing, D Zhang, Z Zhou, L Ni, **Zhou Jin**
 - 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
 
-### [C78] RFDS-BLR: A Randomized Feedback Driven Stochastic Block Low Rank Solver for Industrial Scale Circuit Simulation
+### [C86] RFDS-BLR: A Randomized Feedback Driven Stochastic Block Low Rank Solver for Industrial Scale Circuit Simulation
 - Y Cai, D Niu, Z Jiang, X Chen, Z Zhou, **Zhou Jin**
 - 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
 
 
-### [C77] RA²L-NAND: Risk-Aware Active Learning for High-Sigma Exploration in 3D NAND
-- H Chen, J Huang, Z Sha, Z Wu, S Zhang, **Zhou Jin**, C Zhuo
-- 45th ACM/IEEE International Conference on Computer-Aided Design (ICCAD '26)
+### [J85] GPU-Accelerated Effective Resistance Analysis for 3D IC Power Delivery Network
+- Jingchao Hu, Cheng Zhuo, **Zhou Jin**
+- arXiv preprint arXiv:2607.05818
 
-
-### [C76] SALUT: Efficient Sparse LU Factorization via Asynchronous Task Triggering on HBM FPGAs
+- ### [C84] SALUT: Efficient Sparse LU Factorization via Asynchronous Task Triggering on HBM FPGAs
 - X Xu, Z Wu, D Niu, **Zhou Jin**, C Zhuo
 - 63rd ACM/IEEE Design Automation Conference (DAC '26)
 
 
+### [C83] SCALER: A Stream-Aware Accelerator with Hierarchical Memory for Sparse LU Factorization on HBM FPGAs
+- Xin Xu, Zhenhua Wu, Z Li, Dan Niu, Cheng Zhuo, **Zhou Jin**
+- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
+
+
+
+### [C82] From Forest to Tree: Prioritizing the Maximum Additional Delay in AQFP Circuit Design
+- Y Bai, M Fan, T Y Ho, **Zhou Jin**
+- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
+
+
+### [C81] GE-LLM: Graph-Enhanced Large Language Models for Efficient Transistor-Level Circuit Simulation
+- C Wang, D Niu, Y Dong, D Zhang, C Sun, **Zhou Jin**
+- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
+
+
+### [C80] MISP-Net: Significantly Reducing Transient Backward-steppings via Novel Multi-step Irregular Sequence Prediction
+- Y Dong, D Niu, C Wang, Z Zhou, C Sun, **Zhou Jin**
+- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
+
+### [C79] MinFill: Reinforcement Learning and GNN Guided Reordering for Fill-In Reduction in RF Circuit Matrices
+- H Zhang, D Niu, C Zhuo, **Zhou Jin**
+- 23rd IEEE/ACM Design, Automation and Test in Europe Conference (DATE '26)
+
+### [C78] GRIND: GNN and Reinforcement Learning Enhanced Multilevel Nested Dissection for Circuit Matrix Reordering
+- Jianfei Song, Zhenhua Wu, **Zhou Jin**, Cheng Zhuo
+- 2025 International Symposium of Electronics Design Automation (ISEDA '26)
+
+### [C77] IR Drop-Aware ECO: A Fast Approach to Minimize Layout and Timing Disturbance
+- J Hu, Y Lin, H Yu, Q Chen, **Zhou Jin**, C Zhuo
+- 31st Asia and South Pacific Design Automation Conference (ASP-DAC '26)
+
+
+### [C76] Understanding and Predicting Vmin Failures in Power Delivery Networks through Multi-Order Droop Signatures
+- S Sun, J Hu, **Zhou Jin**, C Zhuo
+- 31st Asia and South Pacific Design Automation Conference (ASP-DAC '26)
+
 
 ### [C75] LiTformer: Efficient Signal Integrity Analysis for High-Speed Link Transmitters Using Non-Autoregressive Transformer
 - Songyu Sun; Xiao Dong; Yanliang Sha; Qi Sun; Quan Chen; **Zhou Jin**
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 ### [C74] Machine Learning-Assisted VCD Processing for Accelerated Dynamic Voltage Drop Analysis
 - Jingchao Hu, Yufei Chen, Songyu Sun, Jianfei Song, Li Zhang, Xunzhao Yin, **Zhou Jin**, Cheng Zhuo
