@@ -17,7 +17,7 @@
 - **2017 – 2022 Assistant Professor**  
   *China University of Petroleum (Beijing), Department of Information Science and Engineering*  
 
-- **2015 – 2017 Postdoctoral Researcher**  
+- **2015 – 2017 Postdoc**  
   *Waseda University, Research Center*  
 
 - **2013 – 2014 GCOE Researcher**  
