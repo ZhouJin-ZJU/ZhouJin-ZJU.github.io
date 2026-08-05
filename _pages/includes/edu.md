@@ -7,7 +7,7 @@
 - **B.Sc., Department of Computer Science and Technology, Nanjing University (2006 – 2010)**   
 
 
-# Work Experience
+# 💼 Work Experience
 - **Since March 2025 ZJU100 Professor**  
   *Zhejiang University, School of Integrated Circuits*  
   
