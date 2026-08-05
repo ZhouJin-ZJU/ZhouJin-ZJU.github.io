@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- ### 🏆 Best Paper Awards
+- ## 🏆 Best Paper Awards
 
 - **PPoPP 2026 Best Paper Award Nomination**
 
